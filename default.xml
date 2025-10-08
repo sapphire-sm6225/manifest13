@@ -255,7 +255,6 @@
   <project name="crdroidandroid/android_packages_apps_SettingsIntelligence" path="packages/apps/SettingsIntelligence" remote="crdroid" revision="c5374bca18ebb6ea9651360cc34e6a1c47932352" upstream="refs/heads/16.0" dest-branch="refs/heads/16.0" groups="pdk-fs"/>
   <project name="crdroidandroid/android_packages_apps_ThemePicker" path="packages/apps/ThemePicker" remote="crdroid" revision="841023bb78ef56c86d5686a924326ac6bf045167" upstream="refs/heads/16.0" dest-branch="refs/heads/16.0" groups="pdk-fs,sysui-studio"/>
   <project name="crdroidandroid/android_packages_apps_WallpaperPicker2" path="packages/apps/WallpaperPicker2" remote="crdroid" revision="7e24f1399553b4703772e8a145da7ac54059d85b" upstream="refs/heads/16.0" dest-branch="refs/heads/16.0" groups="pdk-fs,sysui-studio"/>
-  <project name="crdroidandroid/android_packages_inputmethods_LatinIME" path="packages/inputmethods/LatinIME" remote="crdroid" revision="ba4961c2179c05ca97c389cc572405ae2236e7df" upstream="refs/heads/16.0" dest-branch="refs/heads/16.0" groups="pdk-fs"/>
   <project name="crdroidandroid/android_packages_services_DeviceAsWebcam" path="packages/services/DeviceAsWebcam" remote="crdroid" revision="bdf05c8c94e73bdd19a4ceb2d28c051e74474bd4" upstream="refs/heads/16.0" dest-branch="refs/heads/16.0" groups="pdk-cw-fs,pdk-fs"/>
   <project name="crdroidandroid/android_packages_services_Telephony" path="packages/services/Telephony" remote="crdroid" revision="e8a290fcecd927b8409eb56c2324cd90acc22687" upstream="refs/heads/16.0" dest-branch="refs/heads/16.0" groups="pdk-cw-fs,pdk-fs"/>
   <project name="crdroidandroid/android_system_bpf" path="system/bpf" remote="crdroid" revision="5115376b7e298b40ae96932a70da432860a0b47b" upstream="refs/heads/16.0" dest-branch="refs/heads/16.0" groups="pdk"/>
@@ -1185,6 +1184,7 @@
   <project name="packages_apps_Settings" path="packages/apps/Settings" remote="alpha" groups="pdk-fs,pdk-cw-tvc,sysui-studio"/>
   <project name="packages_apps_SetupWizard" path="packages/apps/SetupWizard" remote="alpha" />
   <project name="packages_apps_Updater" path="packages/apps/Updater" remote="alpha" />
+  <project name="packages_inputmethods_LatinIME" path="packages/inputmethods/LatinIME" remote="alpha" groups="pdk-fs"/>
   <project name="packages_modules_Bluetooth" path="packages/modules/Bluetooth" remote="alpha" groups="pdk"/>
   <project name="packages_modules_Connectivity" path="packages/modules/Connectivity" remote="alpha" groups="pdk-cw-fs,pdk-fs"/>
   <project name="packages_modules_Wifi" path="packages/modules/Wifi" remote="alpha" groups="pdk-cw-fs,pdk-fs,sysui-studio"/>
